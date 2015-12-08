@@ -1,5 +1,5 @@
 # TERA-DBGrabber
-Tera Database Grabber from tera.database.net
+Tera Database Grabber for tera.database.net
 
 ## How To Use
 Simply just run php TERA-DBGrabber.php and it will show help for you
